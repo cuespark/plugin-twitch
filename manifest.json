@@ -6,8 +6,8 @@
   "icon": "ri:twitch-fill",
   "entry": "dist/index.js",
   "dependencies": [],
-  "streamKitVersion": ">=0.1.0",
-  "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-twitch/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-twitch/releases/download/v0.2.0-alpha.9/plugin-twitch.zip",
-  "sha256": "01a52cdfd6e40e39dcdff7c2d310d670be951d29f5745ef0c9d62e9a3ba98eee"
+  "cuesparkVersion": ">=0.1.0",
+  "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-twitch/main/manifest.json",
+  "downloadUrl": "https://github.com/cuespark/plugin-twitch/releases/download/v0.2.0-alpha.9/plugin-twitch.zip",
+  "sha256": "df90a685c9300cb7cbeff31cbf35e32e0e19e61212d4dee337e03f07196fd6e8"
 }

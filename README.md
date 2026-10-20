@@ -8,7 +8,7 @@ It does **not** contain plugin source code. Development happens in the main app 
 
 ## Install
 
-1. Download `plugin-twitch.zip` from the [latest release](https://github.com/stream-kit-app/plugin-twitch/releases/latest).
+1. Download `plugin-twitch.zip` from the [latest release](https://github.com/cuespark/plugin-twitch/releases/latest).
 2. Open **Stream Kit** → **Plugins** → **Install plugin**.
 3. Select the zip file and enable the plugin.
 
