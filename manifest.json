@@ -9,5 +9,5 @@
   "cuesparkVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/cuespark/plugin-twitch/main/manifest.json",
   "downloadUrl": "https://github.com/cuespark/plugin-twitch/releases/download/v0.2.0-alpha.9/plugin-twitch.zip",
-  "sha256": "df90a685c9300cb7cbeff31cbf35e32e0e19e61212d4dee337e03f07196fd6e8"
+  "sha256": "7e40d345fc54f7b6a99ab3f462a5fcbe2c845f14f6e9f9b754a9820b3b9e4686"
 }
